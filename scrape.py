@@ -97,6 +97,11 @@ def host_type(url):
     return host
 
 
+def link_type(label, url):
+    """Link label shown to viewers: Magnet stays Magnet, direct links show their host type."""
+    return label if label == "Magnet" else host_type(url)
+
+
 def extract_links(text):
     """Return [(label, url, encoding)] from plain (0), base64 (1) and double base64 (2) text."""
     found = []
@@ -227,7 +232,6 @@ def md_cell(s):
     return s.replace("|", "&#124;")
 
 
-ENC_NAMES = {1: "b64", 2: "b64 x2"}
 NL = chr(10)
 DEAD_NOTE = ("> **Note:** links were scraped as posted and are not checked. "
              "Many are old and may be dead: torrents with no seeders, deleted or expired file-host links, "
@@ -249,7 +253,7 @@ def build_pages(parts, live):
              "|---|---|---|---|---|---|---|"]
     csv_file = (ROOT / "all-links.csv").open("w", encoding="utf8", newline="")
     out = csv.writer(csv_file)
-    out.writerow(["part", "thread", "post", "date", "kind", "url", "type", "encoded", "reply_to",
+    out.writerow(["part", "thread", "post", "date", "type", "url", "reply_to",
                   "image", "filename", "size", "context"])
     for part in sorted(parts):
         thread = parts[part]
@@ -263,22 +267,20 @@ def build_pages(parts, live):
                 f"[4chan](https://boards.4chan.org/t/thread/{thread}) | "
                 f"[archive](https://archiveofsins.com/t/thread/{thread}/) | [back to index](../README.md)", "",
                 DEAD_NOTE, "",
-                "| Post | Links | Image | Date (UTC) | Reply to | Type | Encoded | Context | File | Size |",
-                "|---|---|---|---|---|---|---|---|---|---|"]
+                "| Post | Links | Image | Date (UTC) | Reply to | Context | File | Size |",
+                "|---|---|---|---|---|---|---|---|"]
         for r in shown:
-            links = " ".join(f"[{l}]({u.replace('|', '%7C')})" for l, u, _ in r["links"])
+            links = " ".join(f"[{link_type(l, u)}]({u.replace('|', '%7C')})" for l, u, _ in r["links"])
             img = f"[image]({r['image']})" if r["image"] else ""
-            types = ", ".join(dict.fromkeys(host_type(u) for _, u, _ in r["links"]))
-            encs = ", ".join(dict.fromkeys(ENC_NAMES[e] for _, _, e in r["links"] if e))
             cells = [r["post"], links, img, r["date"] or "", ", ".join(map(str, r["reply_to"])),
-                     types, encs, md_cell(r["context"]), md_cell(r["filename"] or ""), r["size"] or ""]
+                     md_cell(r["context"]), md_cell(r["filename"] or ""), r["size"] or ""]
             page.append("| " + " | ".join(map(str, cells)) + " |")
             for label, url, enc in r["links"]:
-                out.writerow([part, thread, r["post"], r["date"], label, url, host_type(url),
-                              ENC_NAMES.get(enc, ""), " ".join(map(str, r["reply_to"])),
+                out.writerow([part, thread, r["post"], r["date"], link_type(label, url), url,
+                              " ".join(map(str, r["reply_to"])),
                               r["image"] or "", r["filename"] or "", r["size"] or "", r["context"]])
             if not r["links"]:
-                out.writerow([part, thread, r["post"], r["date"], "", "", "", "", " ".join(map(str, r["reply_to"])),
+                out.writerow([part, thread, r["post"], r["date"], "", "", " ".join(map(str, r["reply_to"])),
                               r["image"] or "", r["filename"] or "", r["size"] or "", r["context"]])
         write(PAGES / f"part-{part:02d}.md", page)
         dates = [r["date"][:10] for r in rows if r["date"]]
