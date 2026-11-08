@@ -1,0 +1,58 @@
+# Part 38 - thread 1106686
+
+[4chan](https://boards.4chan.org/t/thread/1106686) | [archive](https://archiveofsins.com/t/thread/1106686/) | [back to index](../README.md)
+
+> **Note:** links were scraped as posted and are not checked. Many are old and may be dead: torrents with no seeders, deleted or expired file-host links, removed videos, and unarchived images.
+
+| Post | Links | Image | Date (UTC) | Reply to | Type | Encoded | Context | File | Size |
+|---|---|---|---|---|---|---|---|---|---|
+| 1106686 |  | [image](https://archiveofsins.com/data/t/image/1595/99/1595997241503.jpg) | 2022-01-22 08:40 | 1100840 |  |  | ASMR streams/youtubers/whatever, no blomaga images edition(maybe?). Also might w… | 1641113998219.jpg | 4KiB, 312x208 |
+| 1106700 | [Direct](https://github.com/engatec/vdl) |  | 2022-01-22 10:04 |  | github.com |  | To kurumi guy: Try this Its a GUI wrapper for yt-dlp and youtube-dl. It doesnt s… |  |  |
+| 1106745 | [Direct](https://anonfiles.com/126cP5C3xd/_-cjLQBcifAek_m4a) |  | 2022-01-22 14:22 |  | Anonfiles | b64 | eve's latest stream |  |  |
+| 1106839 | [Magnet](magnet:?xt=urn:btih:58ef746a288e9624f067ebb3cb75f9a46a70492f&dn=macato-canan) [Magnet](magnet:?xt=urn:btih:217276fc9a4b5c1127afb150b2f534a61a68ad10&dn=ryua&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) | [image](https://archiveofsins.com/data/t/image/1642/87/1642873426106.png) | 2022-01-22 17:43 |  | Torrent |  | Can y'all seed this? Macato-Canan Ryua ASMR: | yakumo_yukari_touhou_drawn_by_nyong_nyong__a3f96c1cabac19450146e0d254f55be7.png | 764KiB, 850x850 |
+| 1106854 | [Magnet](magnet:?xt=urn:btih:56fcda9d92e33b994ec777aff11052e4b4e1a7d9&dn=%e3%81%82%e3%81%be%e3%81%82%e3%81%be%e2%99%a1%e3%81%97%e3%81%93%e3%81%97%e3%81%93%e2%99%a1%e3%81%8a%e3%81%a6%e3%81%a4%e3%81%a0%e3%81%84%e2%99%a1-cjLQBcifAek) |  | 2022-01-22 18:17 | 1106745 | Torrent | b64 |  |  |  |
+| 1107028 | [Direct](https://we.tl/t-Qo5NXX6ntO) |  | 2022-01-23 01:30 |  | we.tl | b64 | does this work? am trying to seed |  |  |
+| 1107201 |  | [image](https://archiveofsins.com/data/t/image/1642/95/1642951179060.jpg) | 2022-01-23 15:19 | 1107089 |  |  | >was bullied and doxxed in middle school That's extremely common these days. It … | Bullshit.jpg | 509KiB, 750x915 |
+| 1107240 |  | [image](https://archiveofsins.com/data/t/image/1642/96/1642961619282.gif) | 2022-01-23 18:13 | 1106855 |  |  | I can seed it tomorrow afternoon if im not too busy | 899337231.gif | 66KiB, 252x255 |
+| 1107257 |  | [image](https://archiveofsins.com/data/t/image/1642/97/1642970693538.gif) | 2022-01-23 20:44 |  |  |  | I'm telling you guys, for maximum comfy sfw sleeping aid, there's no one better … | 1591171725263.gif | 2MiB, 400x225 |
+| 1107339 |  | [image](https://archiveofsins.com/data/t/image/1642/99/1642997598894.jpg) | 2022-01-24 04:13 | 1107338 |  |  | Did you do anything to the settings? Torrents work fine for me like this. You co… | file.jpg | 102KiB, 590x440 |
+| 1107341 | [Direct](https://gofile.io/d/xB9Dtw) |  | 2022-01-24 04:20 |  | Gofile | b64 x2 | Per*ri thing I found, I remember an anon shared stuff from her a long time ago. … |  |  |
+| 1107399 |  | [image](https://archiveofsins.com/data/t/image/1643/01/1643014600942.png) | 2022-01-24 08:56 |  |  |  | Does anyone have the TS? | Screenshot 2022-01-24 16.55.52.png | 68KiB, 792x682 |
+| 1107435 | [Direct](https://anonfiles.com/tem9r4Dex3/_ASMR_-QtEfVsH0kYY_m4a) |  | 2022-01-24 13:02 | 1107432 | Anonfiles | b64 | wasnt much really, but here you go |  |  |
+| 1107448 | [Direct](https://anonfiles.com/3eLar0D4x5/_ASMR_-4zFCdS1-5Mg_m4a) |  | 2022-01-24 13:53 |  | Anonfiles | b64 | nano's stream that just got taken down |  |  |
+| 1107546 | [Magnet](magnet:?xt=urn:btih:d0b994939df81b4c121bff734a584226450eef34&xt=urn:btmh:1220ad5d4ecd2d9f2142463ac5debcc7a9f5a0f0bf45ab60b36a3a42d422302f88a2&dn=%5b2021-12-31%5d%20-%20Rika) |  | 2022-01-24 19:20 | 1107495 | Torrent | b64 | New years R. It's just a cooking stream and it's edited. I don't think I can get… |  |  |
+| 1107607 | [Magnet](magnet:?xt=urn:btih:92060a0d0ddf449099900f5c23d63b51e639a792&dn=mumaperori%20-%2020211130) |  | 2022-01-24 22:48 | 1107341 | Torrent | b64 |  |  |  |
+| 1107610 | [Magnet](magnet:?xt=urn:btih:ab6c2da2fd95ccedaa96b86a8ca0848dd6460620&dn=%e3%80%90ASMR%e3%80%91%e6%a9%9f%e6%9d%90%e3%83%86%e3%82%b9%e3%83%88-QtEfVsH0kYY) |  | 2022-01-24 22:55 | 1107435 | Torrent | b64 |  |  |  |
+| 1107717 |  | [image](https://archiveofsins.com/data/t/image/1643/09/1643098070432.png) | 2022-01-25 08:07 |  |  |  | what did he mean by this | chrome_C4cb6hEybx.png | 12KiB, 818x166 |
+| 1107768 | [Direct](https://streamable.com/dkh789) |  | 2022-01-25 12:28 |  | streamable.com |  | M's breasts are fake by the way |  |  |
+| 1107961 | [Direct](https://twitter.com/odangodaisuki99) |  | 2022-01-26 01:20 | 1107821 | Twitter |  |  |  |  |
+| 1107964 | [Magnet](magnet:?xt=urn:btih:3a1bf8f803f82d307a8d88ef8475e811ab03a707&dn=144t24) |  | 2022-01-26 01:41 | 1107667 | Torrent | b64 |  |  |  |
+| 1107978 | [Direct](https://pastebin.com/RWScyz24) |  | 2022-01-26 02:28 | 1107967 | Pastebin |  | literally just search her name on suke, if you can't even do that then have fun … |  |  |
+| 1107979 | [Direct](https://ghostbin.com/gD7pt) |  | 2022-01-26 02:29 | 1107978 | ghostbin.com |  | pastebin is retarded and nuked the paste |  |  |
+| 1108014 |  | [image](https://archiveofsins.com/data/t/image/1616/78/1616789484260.jpg) | 2022-01-26 04:55 |  |  |  | What was the date of this R's stream again? Pic related | 1616789484260.jpg | 159KiB, 1920x1080 |
+| 1108041 |  | [image](https://archiveofsins.com/data/t/image/1643/18/1643182707260.png) | 2022-01-26 07:38 | 1108000 |  |  | while i didn't care at all (because i don't have time to peruse these anyway) i … | deluge_czt8Mi40Y1.png | 5KiB, 497x48 |
+| 1108449 |  | [image](https://archiveofsins.com/data/t/image/1643/29/1643296439242.png) | 2022-01-27 15:13 |  |  |  | Who is she? | niggers.png | 1MiB, 1271x688 |
+| 1108538 |  | [image](https://archiveofsins.com/data/t/image/1643/31/1643317487597.jpg) | 2022-01-27 21:04 | 1108535 |  |  | me | 1625217024927.jpg | 174KiB, 1025x1041 |
+| 1108697 | [Direct](https://www.youtube.com/watch?v=Fi2DSH1zgXU) |  | 2022-01-28 09:04 |  | YouTube |  | Did anyone save this? I was just about to grab the audio but the video got taken… |  |  |
+| 1108829 | [Direct](https://fantia.jp/products/229432) |  | 2022-01-28 19:37 |  | Fantia |  | anyone have this? |  |  |
+| 1108878 | [Direct](https://anonfiles.com/72F0q6E9x1/20220108_ASMR_ASMR_-_2022_01_08_23_00_-_0_ts) |  | 2022-01-29 00:30 |  | Anonfiles | b64 | have a riz |  |  |
+| 1108897 | [Magnet](magnet:?xt=urn:btih:800c2d0b8e4cd3a5cbd5538954eb63b1339e1a3d&dn=20220108_%e3%80%90%e3%82%b3%e3%82%b9%e3%83%97%e3%83%ac%e5%ae%9f%e5%86%99ASMR%e3%80%91%e8%80%b3%e8%88%90%e3%82%81%e7%a5%9e%e7%a4%be%e3%81%b8%e3%82%88%e3%81%86%e3%81%93%e3%81%9d%e2%99%a1%e5%b7%ab%e5%a5%b3%e3%81%8c%e7%b9%94%e3%82%8a%e3%81%aa%e3%81%99%e7%a5%9e%e8%81%96%e6%8a%9c%e3%81%8d%e5%a7%8b%e3%82%81%ef%bc%81%e3%81%8a%e5%a7%89%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e4%b8%80%e7%b7%92%e3%81%ab%e5%a4%a7%e4%ba%ba%e3%81%ab%e3%81%aa%e3%82%8d%e3%81%86%ef%bc%9f%e6%bf%83%e5%8e%9a%e8%80%b3%e8%88%90%e3%82%81ASMR%e3%80%90%e3%82%8a%e3%81%9a%e3%81%aa%e3%80%91%20-%202022_01_08(%e5%9c%9f)%2023%2000%e9%96%8b%e5%a7%8b%20-%20%e3%83%8b%e3%82%b3%e3%83%8b%e3%82%b3%e7%94%9f) |  | 2022-01-29 01:36 | 1108878 | Torrent | b64 |  |  |  |
+| 1108918 | [Magnet](magnet:?xt=urn:btih:xuvtxg6mpee5kzr2rbsdbr7cpxf3rsm6&dn=20220108_%E3%80%90%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC%E5%AE%9F%E5%86%99ASMR%E3%80%91%E8%80%B3%E8%88%90%E3%82%81%E7%A5%9E%E7%A4%BE%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E2%99%A1%E5%B7%AB%E5%A5%B3%E3%81%8C%E7%B9%94%E3%82%8A%E3%81%AA%E3%81%99%E7%A5%9E%E8%81%96%E6%8A%9C%E3%81%8D%E5%A7%8B%E3%82%81%EF%BC%81%E3%81%8A%E5%A7%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86%EF%BC%9F%E6%BF%83%E5%8E%9A%E8%80%B3%E8%88%90%E3%82%81ASMR%E3%80%90%E3%82%8A%E3%81%9A%E3%81%AA%E3%80%91%20-%202022_01_08%28%E5%9C%9F%29%2023%2000%E9%96%8B%E5%A7%8B%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E7%94%9F%E6%94%BE%E9%80%81%5B0%5D&xl=3388062822&fc=2) |  | 2022-01-29 02:25 | 1108897, 1108914 | Torrent | b64 | this should work properly |  |  |
+| 1109120 |  | [image](https://archiveofsins.com/data/t/image/1643/49/1643493714180.gif) | 2022-01-29 22:01 |  |  |  | just found out my beloved sakurane non does audio porn... | frustrated-mad.gif | 989KiB, 352x224 |
+| 1109138 | [Direct](https://www.dlsite.com/maniax/work/=/product_id/RJ370077.html) |  | 2022-01-29 22:55 | 1109131 | DLsite |  |  |  |  |
+| 1109298 | [Direct](https://www.nicovideo.jp/watch/sm11633646) |  | 2022-01-30 14:09 | 1109295 | Niconico |  |  |  |  |
+| 1109321 | [Direct](https://mega.nz/folder/741HnYzA#XVrP3vhxBBKe18-OSZ0miw) |  | 2022-01-30 15:26 |  | Mega | b64 | i got the non |  |  |
+| 1109365 | [Direct](https://mega.nz/file/900D2KKb#AiVi2PXrIFGedWPYa3OS16QS0391skHm6QHh5j0RuNI) |  | 2022-01-30 19:05 |  | Mega | b64 |  |  |  |
+| 1109372 | [Direct](https://www.nicovideo.jp/watch/sm21843552) |  | 2022-01-30 19:21 | 1109298 | Niconico |  | This is also her right? Surprised how little she's changed. |  |  |
+| 1109396 | [Magnet](magnet:?xt=urn:btih:54cd196d38412284d474aee3649fbd00cd51a323&dn=%e3%83%86%e3%83%a9%e5%b7%a8%e4%b9%b3%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%ef%bd%97%20%5bsm11633646%5d) |  | 2022-01-30 21:20 | 1109298 | Torrent |  | have an archive |  |  |
+| 1109454 | [Direct](https://gofile.io/d/3VZUXi) |  | 2022-01-31 02:13 |  | Gofile | b64 x2 | Mare |  |  |
+| 1109551 | [Direct](https://sukebei.nyaa.si/view/3572561) |  | 2022-01-31 15:24 | 1109544 | sukebei.nyaa.si | b64 | January videos: |  |  |
+| 1109632 |  | [image](https://archiveofsins.com/data/t/image/1643/66/1643662446852.png) | 2022-01-31 20:54 |  |  |  | I tried to buy the fantia version since those are higher quality but stupid webs… | is that a.png | 726KiB, 1918x1218 |
+| 1109687 | [Direct](https://anonfiles.com/126cP5C3xd/_-cjLQBcifAek_m4a) |  | 2022-02-01 01:41 |  | Anonfiles | b64 | ok now you all post weird ass links like " " but i seriously dont know how tf on… |  |  |
+| 1109710 | [Magnet](magnet:?xt=urn:btih:9F67387BFFFD8D3B7A860C5A6B673D23F7D0828F&dn=Janurary&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce) |  | 2022-02-01 03:06 | 1109570, 1109545 | Torrent | b64 | BTS tier context x1 > Looking into it a bit more I think she also adds past VODs… |  |  |
+| 1109775 | [Direct](https://anonfiles.com/126cP5C3xd/_-cjLQBcifAek_m4a) |  | 2022-02-01 10:38 | 1109551 | Anonfiles | b64 | > Thanks Bro! |  |  |
+| 1109971 | [Direct](https://twitter.com/MilfyMilfiaVal1/status/1488052431833677825?cxt=HHwWgoDS6a_zz6YpAAAA) |  | 2022-02-02 01:10 |  | Twitter |  | seems like he is leaving any anon gonna archive? |  |  |
+| 1110011 | [Direct](https://twitter.com/Felicia_Life_) |  | 2022-02-02 03:13 | 1109971 | Twitter |  | I don't think anyone really got her stuff that wasn't already super old, to be h… |  |  |
+| 1110343 | [Direct](https://fantia.jp/products/228383) |  | 2022-02-03 09:23 |  | Fantia |  | Anyone have this? |  |  |
+| 1110344 | [Direct](https://pastebin.com/S3rHppGp) |  | 2022-02-03 09:24 |  | Pastebin | b64 | yaml new FC2 Live: 76806435 |  |  |
+| 1110345 | [Direct](https://fantia.jp/products/236944) |  | 2022-02-03 09:31 |  | Fantia |  | Anyone? riz Eula full ver. |  |  |

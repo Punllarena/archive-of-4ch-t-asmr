@@ -1,0 +1,81 @@
+# Part 34 - thread 1084082
+
+[4chan](https://boards.4chan.org/t/thread/1084082) | [archive](https://archiveofsins.com/t/thread/1084082/) | [back to index](../README.md)
+
+> **Note:** links were scraped as posted and are not checked. Many are old and may be dead: torrents with no seeders, deleted or expired file-host links, removed videos, and unarchived images.
+
+| Post | Links | Image | Date (UTC) | Reply to | Type | Encoded | Context | File | Size |
+|---|---|---|---|---|---|---|---|---|---|
+| 1084082 |  | [image](https://archiveofsins.com/data/t/image/1629/94/1629948494109.jpg) | 2021-10-29 20:55 |  |  |  | Part 1: 934801 Part 2: 940707 Part 3: 944194 Part 4: 945334 Part 5: 945808 Part … | 1630528484361.jpg | 7KiB, 312x208 |
+| 1084139 | [Direct](https://mega.nz/folder/iAsmkIhT#CR5fk_auqsoBe_exwboraw) |  | 2021-10-30 01:39 |  | Mega | b64 x2 | :) |  |  |
+| 1084176 | [Magnet](magnet:?xt=urn:btih:9d94a70654ca5f79c97029a1115793a15eb07e2c&dn=Rizuna) |  | 2021-10-30 05:18 | 1084139 | Torrent | b64 | archived |  |  |
+| 1084208 | [Direct](https://ci-en.dlsite.com/creator/10355/article) |  | 2021-10-30 07:39 |  | DLsite |  | Does someone have Komae Nadeshiko's R18 asmr files from her ci-en page? |  |  |
+| 1084259 | [Direct](https://mega.nz/folder/WD4UHBRK#7K99XLtflyM2_qcqsWfqrg) |  | 2021-10-30 11:19 | 1084225, 1084242 | Mega | b64 | no clue if this is what you're looking for but i found this |  |  |
+| 1084265 | [Direct](https://kemono.party/) |  | 2021-10-30 11:27 | 1084224 | kemono.party | b64 | lmk if you don't know what to do with this |  |  |
+| 1084273 | [Direct](https://www.redtube.com/40141651) |  | 2021-10-30 11:32 |  | redtube.com |  | if any anons know of a good creator that does audio like this: pls lmk. i crave. |  |  |
+| 1084323 | [Direct](https://twitter.com/Honda_poko/status/1454265788525727748) |  | 2021-10-30 15:54 |  | Twitter |  | does someone have audio backups of honda poko youtube channel? she got banned to… |  |  |
+| 1084360 | [Magnet](magnet:?xt=urn:btih:F86550AAD37502CE582806AD4E807F66ABF7283F&dn=C%20Halloween&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) |  | 2021-10-30 19:50 | 1084206, 1084232 | Torrent | b64 x2 | b64x2 > |  |  |
+| 1084451 | [Magnet](magnet:?xt=urn:btih:088F0CF4B4EEAA033D4010722F135150E766B857&dn=October%20Update&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce) |  | 2021-10-31 03:26 | 1084392, 1084426 | Torrent | b64 x2 | b64x2 October update here > |  |  |
+| 1084539 | [Magnet](magnet:?xt=urn:btih:F72C0D91F3E0E407F27DAA03853BECAF7B16216B&dn=Kurumi&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce) |  | 2021-10-31 08:46 | 1084532 | Torrent | b64 x2 | > Think people should still be seeding it |  |  |
+| 1084576 |  | [image](https://archiveofsins.com/data/t/image/1635/67/1635674652288.jpg) | 2021-10-31 10:04 |  |  |  | Oh nonono, as soon as I saw that newfag asking for the mega god link I knew that… | EHT5ew6m.jpg | 29KiB, 400x400 |
+| 1084589 | [Direct](https://anonfiles.com/T8O6I2Rfuc/_Honda_poko_20211022_ASMR_Ear_licking_fx447BacEQA_opus) |  | 2021-10-31 10:32 | 1084323 | Anonfiles | b64 | i only have this single stream, sorry. meant to archive her stuff but got lazy a… |  |  |
+| 1084597 | [Magnet](magnet:?xt=urn:btih:ddffd3e767dc1bb0eac742ad92fcb5f4b534f834&dn=%5b%e6%9c%ac%e5%a4%9a%e3%81%bd%e3%81%93%20Honda%20poko%5d%5b20211022%5d%20%e3%80%90%e8%80%b3%e8%88%90%e3%82%81ASMR%e3%80%91%e5%87%ba%e4%bc%9a%e3%81%a3%e3%81%a6%e5%a5%a5%e3%81%be%e3%81%a7%e2%99%a1%e5%8d%b3%e8%80%b3%e8%88%90%e3%82%81%e3%80%90Ear%20licking_%e8%88%94%e8%80%b3%e6%9c%b5_%ea%b7%80%20%ed%95%a5%ec%95%84%e3%80%91%e3%80%90%e8%80%b3%e3%81%af%e3%82%80_%e8%80%b3%e3%82%ad%e3%82%b9_%e8%80%b3%e3%82%8c%e3%82%8d_%e8%80%b3%e3%81%b5%e3%83%bc_%e5%9b%81%e3%81%8d%e3%82%aa%e3%83%b3%e3%83%aa%e3%83%bc%e3%80%91%20(fx447BacEQA).opus) |  | 2021-10-31 11:11 | 1084589 | Torrent | b64 | archived |  |  |
+| 1084672 | [Magnet](magnet:?xt=urn:btih:4c8069757d0b439abae10dd8dd962e0890ef6ad5&dn=Yaming.mp4) |  | 2021-10-31 15:44 |  | Torrent | b64 x2 | new Y |  |  |
+| 1084736 |  | [image](https://archiveofsins.com/data/t/image/1635/71/1635714410905.jpg) | 2021-10-31 21:06 | 1084672 |  |  | thanks! | 1361270154909.jpg | 80KiB, 577x662 |
+| 1084843 | [Direct](https://twitter.com/refle_ookami/status/1455090850669596677?t=gG4IzsM-T4S__P6xVhmIAg&s=19) |  | 2021-11-01 08:53 |  | Twitter |  | Mega God pls record this and my year will be complete. Massive thanks again for … |  |  |
+| 1084870 |  | [image](https://archiveofsins.com/data/t/image/1635/76/1635767419381.png) | 2021-11-01 11:50 | 1084869 |  |  | Nevermind, the keyword was Riz and it's easy to spot them | file.png | 7KiB, 295x114 |
+| 1084939 | [Direct](https://nodejs.org) [Direct](https://github.com/Last-Order/Minyami) |  | 2021-11-01 18:10 | 1084344, 1084836, 1084938 | nodejs.org, github.com |  | I uploaded both paid videos from R in case anyone missed it was planning to make… |  |  |
+| 1085179 | [Direct](https://www.youtube.com/watch?v=jJxZc3cTk90) [Direct](https://www.youtube.com/watch?v=tbBD1k2nEhU) [Direct](https://www.youtube.com/watch?v=ob16wO7W_ag) |  | 2021-11-02 13:08 |  | YouTube |  | anyone have these C/R youtube streams? forgot to rip them... |  |  |
+| 1085186 |  | [image](https://archiveofsins.com/data/t/image/1635/86/1635860339566.gif) | 2021-11-02 13:38 | 1085183, 1085184 |  |  | Thanks. I like to rhyme and commit internet crime. Also I put the R in Autonomou… | Kurb-Cocaine.gif | 2MiB, 498x372 |
+| 1085226 | [Direct](https://fantia.jp/posts/966742) |  | 2021-11-02 16:38 |  | Fantia |  |  |  |  |
+| 1085376 | [Direct](https://mpv.io/installation/) |  | 2021-11-03 02:00 | 1085070 | mpv.io |  | No idea, but it's on the official MPV site |  |  |
+| 1085663 |  | [image](https://archiveofsins.com/data/t/image/1600/70/1600700903646.jpg) | 2021-11-04 01:35 | 1085546, 1085547, 1085552, 1085557, 1085560 |  |  | It's adorable that you think that was real. They all do that intentionally to ma… | Pencey-4-your-thoughts.jpg | 172KiB, 825x1310 |
+| 1085808 | [Direct](https://www.youtube.com/channel/UCxBmyZNQDFJVr9-ZE7hAYfA) |  | 2021-11-04 13:33 |  | YouTube |  | Anyone have an archive of her Nano Ch.? I noticed she removed some of her videos… |  |  |
+| 1085811 | [Direct](https://youtu.be/lS9X19BAoJQ) |  | 2021-11-04 13:38 |  | YouTube |  |  |  |  |
+| 1085996 | [Direct](https://youtu.be/JzQbe2Kr9Rw) |  | 2021-11-05 14:34 |  | YouTube |  |  |  |  |
+| 1086021 | [Direct](https://spankbang.com/5wx8w/video/asmr) |  | 2021-11-05 17:57 | 1086018 | spankbang.com |  | for reference |  |  |
+| 1086030 | [Magnet](magnet:?xt=urn:btih:3d4181546939ee5b0c6d1947aed4640b3eb54e7e&dn=Ruru%2011%3a05%3a21.mp4) |  | 2021-11-05 19:59 | 1085996 | Torrent | b64 | archived, just in case |  |  |
+| 1086115 | [Direct](https://www.youtube.com/watch?v=pMlxeJVHgNc) |  | 2021-11-06 06:01 |  | YouTube |  | anyone have full stream vid?? |  |  |
+| 1086120 | [Direct](https://www.youtube.com/watch?v=6nsN9j57JoY) |  | 2021-11-06 06:16 |  | YouTube |  | Is there a Kirarin archive? This chick who does ASMR on YT, she's got a couple o… |  |  |
+| 1086141 | [Direct](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-pass-cookies-to-youtube-dl) |  | 2021-11-06 07:15 | 1086121 | github.com |  |  |  |  |
+| 1086151 | [Direct](https://mega.nz/file/SKgFXYJA#w4jOg_duve3zX1RFPZMUGSnEaYpOt_D6KRnwdqwbm6s) |  | 2021-11-06 08:43 | 1086115 | Mega | b64 |  |  |  |
+| 1086164 | [Magnet](magnet:?xt=urn:btih:ed7ff48add21150515aa3c0daa4f60d91a692bf7&dn=%e3%80%90M%e5%90%91%e3%81%91%e3%80%91%e3%82%b7%e3%82%b3%e3%82%b7%e3%82%b3%e3%81%ae%e3%81%8a%e6%89%8b%e4%bc%9d%e3%81%84%e2%99%a5%20%5baeqs8u-dXG4%5d.webm) |  | 2021-11-06 10:36 | 1086151 | Torrent | b64 |  |  |  |
+| 1086167 | [Direct](https://mega.nz/folder/uTQXFCRJ#jsQfaQuD-uZXjq9O7B6MfA) |  | 2021-11-06 11:31 | 1085965 | Mega | b64 | she had other non ear licking vids that i didnt bother to save |  |  |
+| 1086174 | [Magnet](magnet:?xt=urn:btih:a236979ec4d2a19de43e8c4624b5f96c089a0508&dn=pon) |  | 2021-11-06 12:34 | 1086167 | Torrent | b64 |  |  |  |
+| 1086233 | [Direct](https://mega.nz/folder/uTQXFCRJ#jsQfaQuD-uZXjq9O7B6MfA) |  | 2021-11-06 19:12 | 1086167, 1086174 | Mega | b64 | > King, thanks |  |  |
+| 1086342 | [Direct](https://www.youtube.com/watch?v=ob16wO7W_ag) [Direct](https://gofile.io/d/Jv9gSn) |  | 2021-11-07 03:46 | 1085179 | YouTube, Gofile |  | > google could find this one (search the video id) for you but since i like R he… |  |  |
+| 1086388 | [Direct](https://www.youtube.com/watch?v=rxfGCvRKFV4[Embed) |  | 2021-11-07 05:22 |  | YouTube |  |  |  |  |
+| 1086399 | [Magnet](magnet:?xt=urn:btih:11a8b6c51351cb21c22295f4729eaf6c3d78947a&dn=Jv9gSn) |  | 2021-11-07 05:51 | 1086342 | Torrent | b64 |  |  |  |
+| 1086562 | [Direct](https://sukebei.nyaa.si/view/3509230) |  | 2021-11-07 19:57 | 1086450, 1086480 | sukebei.nyaa.si |  | Here you go. |  |  |
+| 1086740 | [Direct](https://youtu.be/8GfXca8CBr4) |  | 2021-11-08 08:15 |  | YouTube |  | Archiver can you please archive this? This one's pretty wild and might get delet… |  |  |
+| 1086759 | [Magnet](magnet:?xt=urn:btih:a06d77b0610d84b06901a427f1b620e1a1c3a3cf&dn=H.live%20Nonoa.mkv) |  | 2021-11-08 10:02 | 1086740 | Torrent | b64 | done |  |  |
+| 1086762 | [Direct](https://twitter.com/pomepomeko2020/status/1455113308558671874?s=20) |  | 2021-11-08 10:07 |  | Twitter |  | pmk sometime soon i hope |  |  |
+| 1086789 | [Direct](https://live.fc2.com/video/?id=81840800) |  | 2021-11-08 12:38 |  | live.fc2.com |  | Up Mega God |  |  |
+| 1086799 | [Direct](https://twitter.com/kirari_emoechi/status/1457662518378127368?s=20) |  | 2021-11-08 13:06 |  | Twitter |  | need this desperately |  |  |
+| 1086801 | [Direct](https://twitter.com/refle_ookami/status/1457677637707395083?t=gPAd4VJR6OrbjPLQDwQVQA&s=19) |  | 2021-11-08 13:17 | 1086789 | Twitter |  | This one i mean |  |  |
+| 1086848 | [Direct](https://mega.nz/file/HBAhAapT#1tx4wKauBWs8I2d1J513-lsbMz7kZZm47GhvgD9-mDI) |  | 2021-11-08 17:34 | 1086840 | Mega | b64 | seperate link for now, main acc is full as I mentioned. |  |  |
+| 1086858 | [Magnet](magnet:?xt=urn:btih:40f12cdcb58fb47380cc85f9a4bd70943df5a3e0&dn=21-11-08%20%e7%8b%bc%e3%83%8e%e5%ae%ae%e3%83%92%e3%83%8a%e3%82%ae%e3%82%af(81840800)%20%e3%80%8c%e3%80%90%e7%8b%bc%e3%83%8e%e5%ae%ae%e3%83%92%e3%83%8a%e3%82%ae%e3%82%af%e3%80%91%e9%9b%bb%e3%83%9e%e3%81%a8%e3%83%87%e3%82%a3%e3%83%ab%e3%83%89%e3%81%a8%e3%83%ad%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%a6%e3%83%bc%e3%83%9e%e3%83%8a%e3%82%a4%e3%82%b6%e3%83%bc%e3%81%ae4%e9%80%a3%e7%b6%9a%e3%82%a4%e3%81%8d%e3%81%97%e3%81%a1%e3%82%83%e3%81%86%e5%ae%9f%e6%bc%94%e9%85%8d%e4%bf%a1%e2%80%a6%e2%99%a1%e3%80%8d.mp4) |  | 2021-11-08 18:18 | 1086848 | Torrent | b64 |  |  |  |
+| 1086975 | [Direct](https://fantia.jp/posts/978957) |  | 2021-11-09 02:37 |  | Fantia |  |  |  |  |
+| 1087455 | [Direct](https://ci-en.net/creator/4486) [Direct](https://twitter.com/aginyan08) | [image](https://archiveofsins.com/data/t/image/1636/58/1636580599102.jpg) | 2021-11-10 21:43 |  | ci-en.net, Twitter |  | do you know Ayan? | FAdgZSpUcAMFEIL.jpg | 69KiB, 680x642 |
+| 1087817 | [Direct](https://fantia.jp/fanclubs/253467) |  | 2021-11-12 14:58 |  | Fantia |  | is it just a matter of time before yuuri going to be doing nudes/lewds? |  |  |
+| 1088104 | [Direct](https://litter.catbox.moe/1tlj7n.mp4) |  | 2021-11-13 14:27 |  | Catbox |  | Ruru |  |  |
+| 1088105 | [Direct](https://litter.catbox.moe/1tlj7n.mp4) |  | 2021-11-13 14:29 |  | Catbox |  | Now give me H.live AV |  |  |
+| 1088108 | [Direct](https://youtu.be/KzL6OmeMeYw) |  | 2021-11-13 14:36 |  | YouTube |  | Archiver, please. |  |  |
+| 1088163 | [Magnet](magnet:?xt=urn:btih:b4ed2204762fb4c996f0eaa5da76c80ff44ad7c4&dn=H.live%20Milfia.mp4) |  | 2021-11-13 20:14 | 1088108 | Torrent | b64 | got it |  |  |
+| 1088165 | [Magnet](magnet:?xt=urn:btih:4276cd5c9436d09abf5fddd52063daf7707d83b0&dn=1tlj7n.mp4) |  | 2021-11-13 20:22 | 1088105 | Torrent | b64 |  |  |  |
+| 1088263 | [Direct](https://twitter.com/uuumi69/status/1415987605154394115) |  | 2021-11-14 06:25 |  | Twitter |  | Anyone ever up this? |  |  |
+| 1088305 | [Direct](https://pan.baidu.com/s/1jeFPlVsWAw3ZiMDaMuzDBA) |  | 2021-11-14 12:07 |  | Baidu | b64 | if someone can download new pom from this and upload to mega or torrent w/e baid… |  |  |
+| 1088342 | [Direct](https://baidu.kinh.cc/) |  | 2021-11-14 15:32 | 1088305, 1088341 | Baidu |  | try using this |  |  |
+| 1088347 | [Direct](https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397) [Direct](https://anonfiles.com/14C1YcU6ub/11_1_zi) |  | 2021-11-14 16:08 | 1088342, 1088305 | gist.github.com, Anonfiles | b64 x2 | maybe i should elaborate this is a slightly outdated guide because the ui has ch… |  |  |
+| 1088651 | [Magnet](magnet:?xt=urn:btih:814690bea941dcd1537b79a64f3e811dd46c16c8&dn=47dbc55b__%e3%83%95%e3%82%a1%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a211%e6%9c%88%e5%88%86_%ef%bc%91__.mp4) |  | 2021-11-15 15:33 | 1088305, 1088347 | Torrent | b64 |  |  |  |
+| 1088844 | [Magnet](magnet:?xt=urn:btih:EE40F31DEBA2CBABFE241E50AFA1C02C5984BF88) |  | 2021-11-16 02:50 |  | Torrent |  | Anyone have a torrent or download of threemilk/Agatha's stuff? I had a torrent r… |  |  |
+| 1088874 | [Direct](https://fantia.jp/products/205063) |  | 2021-11-16 04:53 |  | Fantia |  | someone share this and I'll share the Ganyu video and some more. |  |  |
+| 1088934 | [Direct](https://github.com/yt-dlp/yt-dlp) |  | 2021-11-16 14:15 | 1088932 | github.com |  | you should usually use yt-dlp for that |  |  |
+| 1088962 | [Direct](https://vimeo.com/619967695/bb97e8507c) |  | 2021-11-16 16:52 |  | vimeo.com |  | was this ever shared? |  |  |
+| 1089000 | [Direct](https://github.com/KurtBestor/Hitomi-Downloader) |  | 2021-11-16 20:16 | 1088934 | github.com |  | no but if you want one then I would recommend Hitomi |  |  |
+| 1089001 | [Direct](https://github.com/KurtBestor/Hitomi-Downloader) |  | 2021-11-16 20:18 | 1088937 | github.com |  | no but if you want something with a GUI then I would recommend Hitomi |  |  |
+| 1089143 | [Direct](https://ch.nicovideo.jp/canan8181/live) |  | 2021-11-17 13:23 | 1089114 | Niconico |  |  |  |  |
+| 1089294 | [Magnet](magnet:?xt=urn:btih:ee40f31deba2cbabfe241e50afa1c02c5984bf88&dn=threemilkT%20Youtube%20Archive&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969) |  | 2021-11-18 03:51 | 1089290 | Torrent |  | Here is the youtube folder, let me know if it works. I'll check out the streams … |  |  |
+| 1089300 | [Magnet](magnet:?xt=urn:btih:e02efcabf85a258e2763fb33fce5ee3f7d84b723&dn=Agatha%20Streams&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969) [Magnet](magnet:?xt=urn:btih:bc6a103b8372f08609a5138e751e4be91d698202&dn=aggiestream.mp4&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969) |  | 2021-11-18 04:27 | 1089296 | Torrent |  | I checked now. They are mostly ukelele singing and drawing but there are some AS… |  |  |
+| 1089415 | [Magnet](magnet:?xt=urn:btih:59270df653ea517db7612960dee1d219944e7914&dn=fc2%20H%20Voice%20(21-06-02%20~%2021-11-17)&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) [Direct](https://live.fc2.com/10468004) |  | 2021-11-18 14:24 | 1089408, 1089409 | Torrent, live.fc2.com |  | I tried to put it on sukebe, didn't have an account. Didn't know leaving the tra… |  |  |
+| 1089634 | [Direct](https://fantia.jp/posts/954881) |  | 2021-11-19 06:48 |  | Fantia |  | I want this onasapo vid... plz... |  |  |
