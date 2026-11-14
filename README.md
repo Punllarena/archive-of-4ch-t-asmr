@@ -88,4 +88,4 @@ Full list for spreadsheets: [all-links.csv](all-links.csv).
 | [79](threads/part-79.md) | 1367614 | 2025-06-22 to 2025-11-05 | 390 | 82 | 16 | archived |
 | [80](threads/part-80.md) | 1384908 | 2025-11-05 to 2026-03-13 | 352 | 44 | 18 | archived |
 | [81](threads/part-81.md) | 1395286 | 2026-03-11 to 2026-08-22 | 421 | 47 | 16 | archived |
-| [82](threads/part-82.md) | 1404149 | 2026-08-21 to 2026-11-08 | 171 | 16 | 0 | live |
+| [82](threads/part-82.md) | 1404149 | 2026-08-21 to 2026-11-12 | 177 | 16 | 0 | live |
